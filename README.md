@@ -87,7 +87,7 @@ install.packages(c(
 
 1. Clona la repository:
    ```bash
-   git clone https://github.com/MattiaBazzani/Violent-Conflict-and-the-Strength-of-Civil-Society-O-Reilly-2021.git
+   git clone https://github.com/MattiaBazzani/Civil-Society-Synthetic-Control.git
    ```
 2. **Caricamento Base**: Apri il progetto in RStudio ed esegui per primo lo script scripts/SA_SSA.R per caricare le librerie necessarie e importare il dataset vdem_merged_full.dta.
 4. **Esecuzione Modelli Locali**: Apri i singoli file dei paesi (es. scripts/Nepal.R) per eseguire l'estrazione delle matrici, il calcolo dei pesi ottimali e la generazione del path plot.
